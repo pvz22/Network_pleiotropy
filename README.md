@@ -7,4 +7,4 @@ The "fitness.R" script contains analysis of the MacLean et al dataset for compar
 
 The "paramsweep.R" script contains analysis of the cis and trans pleiotropy comparisons using different significance and fold change cutoffs to construct the network from the Kemmeren dataset.
 
-The "permutations.R" script contains the code used to permute edges in the network, both maintaining and destroying the network degree distribution.
+The "permutationtests.R" script contains the code used to permute edges in the network, both maintaining and destroying the network degree distribution.
